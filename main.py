@@ -37,8 +37,6 @@ def create_ap():
     print('Password:', password)
     print('IP Address:', ap.ifconfig()[0])
 
-    ap.
-
 # Set up the static IP
 def connect_to_network():
     ssid = 'Mob_Pixel 6a'
